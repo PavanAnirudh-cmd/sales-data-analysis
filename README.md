@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Sales Data Analysis  (Data Science Project)
 
 ## Project Type
 Data Science project focused on exploratory data analysis (EDA), data cleaning, and visualization using Python.
