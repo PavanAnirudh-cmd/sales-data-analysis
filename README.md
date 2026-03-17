@@ -1,7 +1,7 @@
 # Sales Data Analysis
 
 ## Project Type
-Theoretical Data Analysis Project
+Data Science project focused on exploratory data analysis (EDA), data cleaning, and visualization using Python.
 
 ## Overview
 This project focuses on analyzing sales data to identify trends, patterns, and business insights using data analysis concepts. It demonstrates the complete workflow of a data analysis project from data collection to insight generation.
